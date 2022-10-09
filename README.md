@@ -10,7 +10,7 @@ Packages: python3 (install: [Linux](https://docs.python-guide.org/starting/insta
 In case of any installation issues, visit [here](https://github.com/wncc/TSS-2021/tree/main/Python%20%26%20its%20Applications/Week-3#setting-up-pygame)
 
 ## Instructions
-From within the **refactoredSnake** folder, execute the following command on Terminal:
+From within the project folder, execute the following command on Terminal:
 ```
 python3 main.py
 ```
